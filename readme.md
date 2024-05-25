@@ -5,3 +5,4 @@
 5. Newly Created file will be untracked
 6. To start tracking a file, add the file to staging.
 7. Checking conflict 
+8. Create new branch
